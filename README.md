@@ -18,7 +18,7 @@ First add the following to the script section of your `composer.json`:
     },
     "scripts": {
         "post-autoload-dump": [
-            "./vendor/davidjeddy/SYM-LINK-INSTALL.sh"
+            "./vendor/davidjeddy/yii2-portfolio-theme/SYM-LINK-INSTALL.sh"
         ]
     }
 }
