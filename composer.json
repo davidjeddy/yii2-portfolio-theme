@@ -1,0 +1,17 @@
+{
+    "name": "davidjeddy/yii2-portfolio-theme",
+    "description": "David J Eddy Portfolio Theme Collection",
+    "keywords": ["theme", "davidjeddy", "yii2"],
+    "type": "theme",
+    "authors": [
+        {
+            "name": "David J Eddy",
+            "email": "me@davidjdeddy.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "davidjeddy\\yii2-portfolio-theme\\": "/src"
+        }
+    }
+}
