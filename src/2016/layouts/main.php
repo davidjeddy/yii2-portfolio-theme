@@ -119,7 +119,6 @@ use yii\widgets\Breadcrumbs;
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact <?php echo getenv('COPYRIGHT_NAME'); ?></h2>
                 <p>Feel free to contact via one of the listed ways below.</p>
-                </p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
                         <a href="mailto:me@davidjeddy.com" target="_new" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Email</span></a>
@@ -130,6 +129,10 @@ use yii\widgets\Breadcrumbs;
                     <li>
                         <a href="https://github.com/davidjeddy/" target="_new" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                     </li>
+                    <li>
+                        <a href="http://stackoverflow.com/users/1572657/pheagey" target="_new" class="btn btn-default btn-lg"><i class="fa fa-stack-overflow fa-fw"></i> <span class="network-name">Stack Overflow</span></a>
+                    </li>
+                    <li>
                         <a href="tel:+18135306278" target="_new" class="btn btn-default btn-lg"><i class="fa fa-phone fa-fw"></i> <span class="network-name">+1 (813) 530-6278</span></a>
                     </li>
                 </ul>
@@ -142,7 +145,7 @@ use yii\widgets\Breadcrumbs;
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <p>Credits:</p>
-                <p>This theme features stock photos by <a href="http://gratisography.com/">Gratisography</a>.</p>
+                <p>Photos provided by: <a href="http://gratisography.com/">Gratisography</a>.</p>
             </div>
         </div>
     </section>
