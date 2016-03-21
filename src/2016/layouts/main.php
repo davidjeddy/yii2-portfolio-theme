@@ -93,7 +93,7 @@ use yii\widgets\Breadcrumbs;
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About <?php echo getenv('COPYRIGHT_NAME'); ?></h2>
-                <p>About verbage</p>
+                <p>About verbiage</p>
             </div>
         </div>
     </section>
@@ -105,8 +105,7 @@ use yii\widgets\Breadcrumbs;
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2><?php echo getenv('COPYRIGHT_NAME'); ?>'s Stats</h2>
-                    <p>Stats verbage</p>
-                    <!--<a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Stats Page</a>-->
+                    <p>Stats verbiage</p>
                 </div>
             </div>
         </div>
